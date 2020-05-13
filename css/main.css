@@ -36,8 +36,22 @@ h3 {
   margin-top: .6em;
 }
 
+.links {
+  display: flex;
+  align-items: baseline;
+}
+
 .link-icon {
   font-size: .85em;
+}
+
+.source {
+  margin-left: 1em;
+  font-size: .8em;
+}
+
+.source-link {
+  color: #525252;
 }
 
 header {
